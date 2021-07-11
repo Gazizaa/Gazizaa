@@ -11,7 +11,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)
 ![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
-![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
