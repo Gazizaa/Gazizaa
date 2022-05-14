@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Gaziza**.
 
-## I'm a *Junior Front-End Developer* from Aktau, Kazakhstan.
+## I'm a *Front-End Developer* from Almaty, Kazakhstan.
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
