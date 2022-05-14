@@ -4,18 +4,17 @@
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=postman)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)
 ![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
 ### &#128231; Email: gazizaagatayeva@gmail.com
-#### &#9997;Telegram: @gaziza_ag
+#### &#9997;Telegram: @gazezoo
 
 <!---
 Gazizaa/Gazizaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
