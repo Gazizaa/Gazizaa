@@ -4,6 +4,7 @@
 
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=postman)
