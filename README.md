@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
 ### &#128231; Email: gazizaagatayeva@gmail.com
-#### &#9997;Telegram: @gazezoo
+#### &#9997;Telegram: @gazeezoo
 
 <!---
 Gazizaa/Gazizaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
